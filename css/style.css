@@ -191,7 +191,7 @@ font-size:1.5em;
 font-weight:lighter;
 }
 
-#calloutblock p {
+#calloutblock p, dl, ul, ol {
 margin:.3em 0 0 0;
 color:#ffffff;
 font-size:.8em;
@@ -221,6 +221,13 @@ color:#323232;
 text-decoration:underline;
 }
 
+#calloutblock .date {
+    margin-bottom:-1em;
+    font-size:.9em;
+    color:#B9400B;
+    text-transform:uppercase;
+    }
+
 /* Text Area */
 #textarea {
 position:relative;
@@ -240,7 +247,7 @@ font-size:1.5em;
 font-weight:lighter;
 }
 
-#textarea p {
+#textarea p,ul,ol{
 font-size:.9em;
 }
 
@@ -249,6 +256,10 @@ margin-bottom:-1em;
 font-size:.7em;
 color:#828181;
 text-transform:uppercase;
+}
+
+#textarea .highlight {
+font-weight: bolder;
 }
 
 /* Side Bar */
