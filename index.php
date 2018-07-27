@@ -13,8 +13,11 @@ include_once('header.php');
     <p>Registration for our fall session is now open.</p>
     <p><a href="about.php">Learn more&#8230;</a></p>
     <p><br/><br/>(Please pardon our dust as we are still composing this site. Pun intended!)</p>
-
   </div>
+  <div style="width:1100px; text-align:right;">   
+	    <a target="_blank" href="https://www.facebook.com/AACSOMusic"><img alt="follow me on facebook" src="img/facebook-1.jpg" border=0></a>
+  </div>
+  
   <!--// end #calloutblock //-->
 </div>
 <!--// end #callout //-->
