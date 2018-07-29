@@ -3,7 +3,7 @@ $PageTitle = "Arundel Community Strings";
 $nav_focus = "home";
 include_once('header.php');
 ?>
-<div id="callout">
+<div id="calloutlong">
   <div id="calloutblock"><img class="calloutfloat" src="img/composing.jpg"/>
    <!-- width="358" height="104" alt="" /></a> -->
     <h2>Hello Music Lovers!</h2>
@@ -17,7 +17,6 @@ include_once('header.php');
   <div style="width:1100px; text-align:right;">   
 	    <a target="_blank" href="https://www.facebook.com/AACSOMusic"><img alt="follow me on facebook" src="img/facebook-1.jpg" border=0></a>
   </div>
-  
   <!--// end #calloutblock //-->
 </div>
 <!--// end #callout //-->
