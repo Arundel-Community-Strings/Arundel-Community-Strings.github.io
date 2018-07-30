@@ -183,6 +183,17 @@ font-size:.9em;
 text-align:left;
 }
 
+#calloutlong {
+margin:0;
+padding:0;
+height:200px;
+background-color:#A5C274;
+background-image:url(../img/callout-bg.jpg);
+background-repeat:repeat-x;
+}
+
+
+
 #calloutblock h2 {
 margin:.5em 0 -.1em 0;
 color:#323232;
