@@ -3,7 +3,7 @@ $PageTitle = "Arundel Community Strings";
 $nav_focus = "home";
 include_once('header.php');
 ?>
-<div id="calloutlong">
+<div id="callouthome">
   <div id="calloutblock"><img class="calloutfloat" src="img/composing.jpg"/>
    <!-- width="358" height="104" alt="" /></a> -->
     <h2>Hello Music Lovers!</h2>
