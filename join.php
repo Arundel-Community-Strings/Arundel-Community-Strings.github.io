@@ -3,13 +3,7 @@ $PageTitle = "Join - ACS";
 $nav_focus = "join";
 include_once('header.php');
 ?>
-<script type="text/javascript">
-    function gen_mail_to_link(lhs,rhs) {
-        document.write("<a href=\"mailto");
-        document.write(":" + lhs + "@" + rhs);
-        document.write("\">" + lhs + "@" + rhs + "<\/a>");
-    }
-</script>
+
 <div id="callout">
   <div id="calloutblock">
     <h2>The Fall 2018 Session is right around the corner!</h2>
@@ -30,7 +24,7 @@ include_once('header.php');
       <li><dl>
         <dt>Complete the <a href="docs/RegistrationForm18_19.pdf">Registration Form</a></dt>
         <dd>You may mail the completed registration to the address listed on the form OR scan and 
-          email it to <script>gen_mail_to_link('contact','arundelstrings.org')</script></dd>
+          email it to contact@arundelstrings.org </dd>
       </dl></li>
       <li><dl>
         <dt>Submit your payment</dt>
@@ -40,7 +34,7 @@ include_once('header.php');
       </dl></li>
       <li><dl>
         <dt>Send us a note</dt>
-        <dd>If you haven't chosen to email your form, please send us a short note to <script>gen_mail_to_link('contact','arundelstrings.org')</script> 
+        <dd>If you haven't chosen to email your form, please send us a short note to contact@arundelstrings.org 
           so that we can make note of your interest and follow up if anything goes wrong with the postal mail 
           or PayPal processing. Please include:</dd>
           <ul>
@@ -58,7 +52,7 @@ include_once('header.php');
     you've changed your contact information.  Please just do the following:
     <ul>
     <li><dl>
-        <dt>Send us a quick email to <script>gen_mail_to_link('contact','arundelstrings.org')</script> confirming your intent to participate 
+        <dt>Send us a quick email to contact@arundelstrings.org confirming your intent to participate 
           in the next session so that we can make note of your interest and follow up if anything goes wrong 
           with the postal mail or PayPal processing. Please include:</dt>
           <ul>
@@ -71,8 +65,8 @@ include_once('header.php');
     <li>Send your payment to Jen as described on the Registration form.  Please remember that PayPal must 
       be sent as a <span class="highlight">'Friends and Family'</span> payment.
     </li>
-</div> 
-<!--// end #textarea //-->
+</div> -->
+<!--// end #textarea //
 <?php
 include_once('footer.php');
 ?>

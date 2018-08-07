@@ -183,21 +183,10 @@ font-size:.9em;
 text-align:left;
 }
 
-/* Callout for Home Page */
-#callouthome {
+#calloutlong {
 margin:0;
 padding:0;
 height:200px;
-background-color:#A5C274;
-background-image:url(../img/callout-bg.jpg);
-background-repeat:repeat-x;
-}
-
-/* Callout for Contact Us Page */
-#calloutcontact{
-margin:0;
-padding:0;
-height:750px;
 background-color:#A5C274;
 background-image:url(../img/callout-bg.jpg);
 background-repeat:repeat-x;
@@ -338,21 +327,4 @@ text-decoration:none;
 #footer a:visted {
 color:#DC9F85;
 text-decoration:underline;
-}
-
-/* Contact Us page */
-
-#fake_name { display: none; }
-#fake_email { display: none; }
-#fake_message { display: none; }
-#fake_attach { display: none; }
-#fake_submit { display: none; }
-#calloutblock #perror  p { color: red; }
-
-#calloutblock textarea[name=message] {
-resize: none;
-}
-
-input[type=submit] {
-    width: 10em;  height: 3em;
 }
