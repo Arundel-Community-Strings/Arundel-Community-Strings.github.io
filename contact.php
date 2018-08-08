@@ -3,13 +3,13 @@ $PageTitle = "Contact - ACS";
 $nav_focus = "contact";
 include_once('header.php');
 ?>
-
+<script src="js/functions.js"></script>
 <div id="callout">
   <div id="calloutblock">
     <h2>Contact Us</h2>
     <p>
     <dl>
-      <dt>Email: contact@arundelstrings.org</dt>
+      <dt>Email: <script>gen_mail_to_link('contact','arundelstrings.org')</script></dt>
       <dt>Phone: 240-630-2072</dt>
       <dt>Mailing Address:</dt>
       <dd>Arundel Community Strings</dd>
