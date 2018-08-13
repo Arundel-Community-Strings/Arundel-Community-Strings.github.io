@@ -9,7 +9,7 @@ include_once('header.php');
     <h2>Contact Us</h2>
     <p>
     <dl>
-      <dt>Email: <script>gen_mail_to_link('contact','arundelstrings.org')</script></dt>
+      <dt>Email: <script>gen_mail_to_link('aacsomusic','gmail.com')</script></dt>
       <dt>Phone: 240-630-2072</dt>
       <dt>Mailing Address:</dt>
       <dd>Arundel Community Strings</dd>
