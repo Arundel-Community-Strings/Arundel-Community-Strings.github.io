@@ -10,8 +10,7 @@ include_once('header.php');
     <br/><p> 
       <ul>
         <li><a href="docs/Flyer_Aug18.pdf">Handout Flyer</a>: No pull tabs</li>
-        <li>Hangable Flyer: With pull tabs</li> 
-     <!--   <li><a href="docs/Flyer_Fall2018_tearoff.pdf">Hangable Flyer</a>: With pull tabs</li> --> 
+        <li><a href="docs/Flyer_Aug18_tearoff.pdf">Hangable Flyer</a>: With pull tabs</li> 
       </ul>
     </p>
     <br/>
