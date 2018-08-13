@@ -22,9 +22,9 @@ include_once('header.php');
     <p>
     <ol>
       <li><dl>
-        <dt>Complete the <a href="docs/RegistrationForm18_19.pdf">Registration Form</a></dt>
+        <dt>Complete the <a href="docs/RegistrationForm_Aug18.pdf">Registration Form</a></dt>
         <dd>You may mail the completed registration to the address listed on the form OR scan and 
-          email it to <script>gen_mail_to_link('contact','arundelstrings.org')</script></dd>
+          email it to <script>gen_mail_to_link('aacsomusic','gmail.com')</script></dd>
       </dl></li>
       <li><dl>
         <dt>Submit your payment</dt>
@@ -34,7 +34,7 @@ include_once('header.php');
       </dl></li>
       <li><dl>
         <dt>Send us a note</dt>
-        <dd>If you haven't chosen to email your form, please send us a short note to <script>gen_mail_to_link('contact','arundelstrings.org')</script> 
+        <dd>If you haven't chosen to email your form, please send us a short note to <script>gen_mail_to_link('aacsomusic','gmail.com')</script> 
           so that we can make note of your interest and follow up if anything goes wrong with the postal mail 
           or PayPal processing. Please include:</dd>
           <ul>
@@ -48,11 +48,11 @@ include_once('header.php');
 
   <p><h3>If you've played with us before:</h3></p>
   <p>
-    There is no need to submit the <a href="docs/RegistrationForm_18_19.pdf">Registration Form</a> unless
+    There is no need to submit the <a href="docs/RegistrationForm_Aug18.pdf">Registration Form</a> unless
     you've changed your contact information.  Please just do the following:
     <ul>
     <li><dl>
-        <dt>Send us a quick email to <script>gen_mail_to_link('contact','arundelstrings.org')</script> confirming your intent to participate 
+        <dt>Send us a quick email to <script>gen_mail_to_link('aacsomusic','gmail.com')</script> confirming your intent to participate 
           in the next session so that we can make note of your interest and follow up if anything goes wrong 
           with the postal mail or PayPal processing. Please include:</dt>
           <ul>
