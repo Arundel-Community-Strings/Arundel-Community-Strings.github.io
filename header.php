@@ -3,6 +3,13 @@
 <head>
 <title><?=$PageTitle?></title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta property="og:image" content="img/ACS_logo.jpg" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://www.arundelstrings.org" />
+<meta property="og:title" content="Arundel Community Strings" />
+<meta property="og:description" content="A Beginner Strings Orchestra in northern Anne Arundel County with a 
+mission to provide ensemble playing experience for adults.  If you play violin, viola, cello, or bass 
+please consider joining us!" />
 <link rel="stylesheet" href="css/style.css" type="text/css" media="screen,print" />
 </head>
 <body>
