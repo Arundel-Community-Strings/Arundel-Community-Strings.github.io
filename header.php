@@ -3,7 +3,7 @@
 <head>
 <title><?=$PageTitle?></title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-<meta property="og:image" content="img/ACS_logo.jpg" />
+<meta property="og:image" content="http://www.arundelstrings.org/img/ACS_logo.jpg" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="http://www.arundelstrings.org" />
 <meta property="og:title" content="Arundel Community Strings" />
