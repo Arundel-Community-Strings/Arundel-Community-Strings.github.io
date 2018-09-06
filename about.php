@@ -4,13 +4,14 @@ $nav_focus = "about";
 include_once('header.php');
 ?>
 
-<div id="callout">
+<div id="calloutlong">
   <div id="calloutblock">
     <h2>
       We are a Beginner Strings Orchestra in northern Anne Arundel County 
-      <p>Our primary focus is to provide ensemble playing experience for adult players, but we happily accept
+      <p>Our primary focus is to provide ensemble playing experience for <span style="font-weight: bold; text-decoration: underline;">Adult Players</span>, but we happily accept
       committed students entering grade 6 or higher.  We also welcome more advanced players to join us 
       as mentors.</p>
+      <br/>
       <p>If you play violin, viola, cello, or bass please consider <a href="join.php">joining us!</a></p>
     </h2>
   </div>
@@ -26,13 +27,13 @@ include_once('header.php');
       almost 20 years later when her youngest child began to play violin.  She greatly missed the energy of 
       playing with a group and when she looked for an orchestra to join, she discovered that there were plenty 
       of professional and semi-professional groups, but she found herself intimidated by the thought of an audition.</p> 
-    <p>What she did find in her search were plenty of community bands that did not require an audition.  
-      Why not create a community string orchestra instead?  Her search for a director led her to Chris Gosper, 
+    <p>What she did find in her search were plenty of community <span style="font-style: italic;"> bands</span> that did not require an audition.  
+      Why not create a community string <span style="font-style: italic;">orchestra</span> instead?  Her search for a director led her to Chris Gosper, 
       a local Director and Musician and things blossomed from there.  The two brainstormed and agreed to create 
-      Arundel Community Strings, an orchestra that did not require an audition and gave middle school students 
-      through adults (who read music well) an outlet to play music together for the joy of it!  She hopes to see 
-      the group grow and gain popularity with all budding musicians (adult and child) as well as experienced 
-      musicians who want to mentor lesser experienced string players in the great spirit of community!</p>
+      Arundel Community Strings, an orchestra that did not require an audition and gave
+      adults (who read music well) an outlet to play music together for the joy of it!  She hopes to see 
+      the group grow and gain popularity with all budding musicians as well as experienced 
+      musicians who want to mentor lesser experienced string players in the great Spirit of Community!</p>
   </p>
   <p>
   <img src="img/Chris.jpg" height="160" width="160" align="left" hspace="20" vspace="10"/>

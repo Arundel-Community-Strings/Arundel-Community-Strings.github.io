@@ -4,15 +4,16 @@ $nav_focus = "join";
 include_once('header.php');
 ?>
 <script src="js/functions.js"></script>
-<div id="callout">
+<div id="calloutlong">
   <div id="calloutblock">
-    <h2>The Fall 2018 Session is right around the corner!</h2>
+    <h2>The Fall 2018 Session is about to start!
     <ul>
       <li>Rehearsals are held Friday evenings from 6:00pm - 7:30pm at Ferndale United Methodist Church.</li>
       <li>Address: 117 Ferndale Road, Glen Burnie, MD 21061</li>
       <li>Rehearsals Begin: <span class="date">Friday, September 21, 2018</span></li>
       <li>Concert Date: <space class="date">Friday, November 9, 2018</span></li>
     </ul>
+    </h2>
   </div>
   <!--// end #calloutblock //-->
 </div>

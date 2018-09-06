@@ -1,14 +1,15 @@
 <?php
-$PageTitle = "Members - ACS"; 
-$nav_focus = "members";
+$PageTitle = "mbers - ACS"; 
+$nav_focus = "mbers";
 include_once('header.php');
 ?>
 
-<div id="callout">
+<div id="calloutlong">
   <div id="calloutblock">
-    <h2>Members</h2>
-      <p>Members only area coming soon.</p>
-      <p>Look here for your Fall 2018 music</p>
+    <h2>Members
+      	<p>Fall 2018 music will be shared via DropBox</p>
+      	<p>If you have not recieved an email about music downloads by September 8, 2018 please contact us!</p>
+    </h2>
   </div>
   <!--// end #calloutblock //-->
 </div>
