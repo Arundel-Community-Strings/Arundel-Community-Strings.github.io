@@ -9,10 +9,13 @@ include_once('header.php');
    <!-- width="358" height="104" alt="" /></a> -->
     <h1>
       <br />
-    Fall Session Begins September 21st!
-    <p><a href="join.php"> Join Now</a></p>
-    </h1>
+      Reminders
+      <p>October 5th (~7pm): Members Meet-n-Greet
+      <p>November 9th: Concert
+      <p>January: Next Session Begins
+    <!-- <p><a href="join.php"> Join Now</a></p> -->
 
+    </h1>
   </div>
 
   <!--// end #calloutblock //-->
