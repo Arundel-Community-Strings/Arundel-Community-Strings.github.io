@@ -16,7 +16,6 @@ include_once('header.php');
     <!-- <p><a href="join.php"> Join Now</a></p> -->
 
     </h1>
-    
   </div>
 
   <!--// end #calloutblock //-->
