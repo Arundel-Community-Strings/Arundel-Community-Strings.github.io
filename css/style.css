@@ -192,6 +192,14 @@ background-image:url(../img/callout-bg.jpg);
 background-repeat:repeat-x;
 }
 
+#calloutextralong {
+    margin:0;
+    padding:0;
+    height:400px;
+    background-color:#A5C274;
+    background-image:url(../img/callout-bg.jpg);
+    background-repeat:repeat-x;
+}
 
 #calloutblock h1 {
 margin:.5em 0 -.1em 0;
