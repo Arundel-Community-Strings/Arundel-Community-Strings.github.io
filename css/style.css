@@ -275,9 +275,6 @@ div.centered {
     float: left;
 }
 
-/* #calloutblock_column img {
-    float:centered;
-} */
 
 #calloutblock_column h1 {
 margin:.5em 0 -.1em 0;
@@ -323,70 +320,17 @@ text-decoration:underline;
     color:#B9400B;
     text-transform:uppercase;
  }
-/* 
- #calloutblock_right_right {
+
+/* Photo Area */
+#photoarea {
     position:relative;
     margin:0 auto;
-    padding:5px;
+    padding:0px;
     width:770px;
     font-size:.9em;
     text-align:left;
 }
-
-#calloutblock_right h1 {
-margin:.5em 0 -.1em 0;
-color:#323232;
-font-family:Georgia, "Times New Roman", Times, serif;
-font-size:2.0em;
-font-weight:heavier;
-text-align: center;
-}
-
-#calloutblock_right h2 {
-margin:.5em 0 -.1em 0;
-color:#323232;
-font-family:Georgia, "Times New Roman", Times, serif;
-font-size:1.5em;
-font-weight:lighter;
-}
-
-#calloutblock_right p, #calloutblock_right dl, #calloutblock_right ul, #calloutblock_right ol {
-margin:.3em 0 0 0;
-color:#ffffff;
-font-size:.8em;
-}
-
-.calloutfloat {
-float:left;
-position:relative;
-margin:13px 15px 0 0;
-padding:0;
-border:none;
-height:104px;
-}
-
-#calloutblock_right a {
-color:#323232;
-text-decoration:underline;
-}
-
-#calloutblock_right a:hover {
-color:#616161;
-text-decoration:none;
-}
-
-#calloutblock_right a:visted {
-color:#323232;
-text-decoration:underline;
-}
-
-#calloutblock_right .date {
-    margin-bottom:-1em;
-    font-size:1.2em;
-    color:#B9400B;
-    text-transform:uppercase;
- } */
-
+ 
 /* Text Area */
 #textarea {
 position:relative;

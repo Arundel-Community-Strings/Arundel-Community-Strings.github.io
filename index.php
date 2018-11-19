@@ -29,9 +29,10 @@ include_once('header.php');
   <!--// end #calloutblock //-->
 </div>
 <!--// end #callout //-->
-<!-- <div id="textarea">
+<div id='photoarea'>
+<img src="img/Group_Fall2018.jpg" height="418" width="770" vspace="0"/>
 
-</div> -->
+</div>
 <!--// end #textarea //-->
 <?php
 include_once('footer.php');
