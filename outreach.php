@@ -9,7 +9,7 @@ include_once('header.php');
     <h2>Help us spread the word by hanging or passing out our flyers
     <br/><p> 
       <ul>
-        <li><a href="docs/Concert_Flyer_Fall2018.pdf">Fall Concert Flyer</a></li>
+        <!-- <li><a href="docs/Concert_Flyer_Fall2018.pdf">Fall Concert Flyer</a></li> -->
         <li><a href="docs/Flyer_Spring2019.pdf">Spring Session Flyer</a>: No pull tabs</li>
         <li><a href="docs/Flyer_Spring2019_tearoff.pdf">Spring Session Flyer</a>: With pull tabs</li> 
       </ul>

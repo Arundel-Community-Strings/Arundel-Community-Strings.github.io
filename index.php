@@ -3,11 +3,13 @@ $PageTitle = "Arundel Community Strings";
 $nav_focus = "home";
 include_once('header.php');
 ?>
-<div id="calloutextralong">
+<!-- <div id="calloutextralong"> -->
+<div id="callout">
+
   <div id="calloutblock">
     <!-- <img class="calloutfloat" src="img/composing.jpg"/> -->
    <!-- width="358" height="104" alt="" /></a> -->
-    <h1>
+    <!-- <h1>
       Fall Concert:<br />
       Friday, November 9, 2018<br />
       7:30 p.m.<br />
@@ -16,9 +18,9 @@ include_once('header.php');
       <p>117 Ferndale Road, Glen Burnie, MD 
       <p>Offerings accepted to benefit FUMC Youth Group 
       
-    </h1>
+    </h1> -->
     <h1>
-      <br />
+      <!-- <br /> -->
       Next Session: 
       <p><span class="date">January 25, 2019 - March 22, 2019</span>
     </h1>
@@ -27,9 +29,10 @@ include_once('header.php');
   <!--// end #calloutblock //-->
 </div>
 <!--// end #callout //-->
-<!-- <div id="textarea">
+<div id='photoarea'>
+<img src="img/Group_Fall2018.jpg" height="418" width="770" vspace="0"/>
 
-</div> -->
+</div>
 <!--// end #textarea //-->
 <?php
 include_once('footer.php');

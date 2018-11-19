@@ -21,6 +21,7 @@ include_once('header.php');
 
 <div id="textarea">
   <p>
+  <img src="img/JenD.jpg" height="160" width="160" align="right" hspace="20" vspace="10"/>
     <h2>Jennifer Danko - Founder</h2>
     <p>Jennifer Danko, a resident of Glen Burnie and local preschool teacher, has played violin throughout her 
       school career.  Once she graduated college, she slid her violin under her bed, only to pull it back out 
