@@ -1,6 +1,6 @@
 <?php
-$PageTitle = "mbers - ACS"; 
-$nav_focus = "mbers";
+$PageTitle = "Members - ACS"; 
+$nav_focus = "members";
 include_once('header.php');
 ?>
 
