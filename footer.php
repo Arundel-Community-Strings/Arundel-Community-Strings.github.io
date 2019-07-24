@@ -1,5 +1,5 @@
 <div id="footer">
-  <p>2018 &copy; Arundel Community Strings<br />
+  <p>2018-2019 &copy; Arundel Community Strings<br />
 </div>
 <!--// end #footer //-->
 </body>

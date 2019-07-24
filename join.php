@@ -10,8 +10,8 @@ include_once('header.php');
     <ul>
       <li>Rehearsals are held Friday evenings from 6:00pm - 7:30pm at Ferndale United Methodist Church.</li>
       <li>Address: 117 Ferndale Road, Glen Burnie, MD 21061</li>
-      <li>Rehearsals Begin: <span class="date">Friday, January 25, 2019</span></li>
-      <li>Concert Date: <space class="date">Friday, March 22, 2019</span></li>
+      <li>Rehearsals Begin: <span class="date">Friday, September 20, 2019</span></li>
+      <li>Concert Date: <space class="date">Friday, November 8, 2019</span></li>
     </ul>
     </h2>
   </div>
@@ -23,7 +23,7 @@ include_once('header.php');
     <p>
     <ol>
       <li><dl>
-        <dt>Complete the <a href="docs/RegistrationForm_Aug18.pdf">Registration Form</a></dt>
+        <dt>Complete the <a href="docs/ACS_RegistrationForm.pdf">Registration Form</a></dt>
         <dd>You may mail the completed registration to the address listed on the form OR scan and 
           email it to <script>gen_mail_to_link('aacsomusic','gmail.com')</script></dd>
       </dl></li>
@@ -49,7 +49,7 @@ include_once('header.php');
 
   <p><h3>If you've played with us before:</h3></p>
   <p>
-    There is no need to submit the <a href="docs/RegistrationForm_Aug18.pdf">Registration Form</a> unless
+    There is no need to submit the <a href="docs/ACS_RegistrationForm.pdf">Registration Form</a> unless
     you've changed your contact information.  Please just do the following:
     <ul>
     <li><dl>

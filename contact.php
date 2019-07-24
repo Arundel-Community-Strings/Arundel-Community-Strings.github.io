@@ -29,7 +29,7 @@ include_once('header.php');
       <br />
       <br />
       <br />
-        <a target="_blank" href="https://www.facebook.com/AACSOMusic">
+        <a target="_blank" href="https://www.facebook.com/ArundelCommunityStrings">
         <img alt="follow me on facebook" src="img/facebook-1.jpg" border=0 style="float:right"></a>
     </div>  <!--// end #calloutblock_column //-->
   </div>
