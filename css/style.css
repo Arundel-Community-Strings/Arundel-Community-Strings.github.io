@@ -326,7 +326,7 @@ text-decoration:underline;
     position:relative;
     margin:0 auto;
     padding:0px;
-    width:770px;
+    width:995px;
     font-size:.9em;
     text-align:left;
 }
@@ -419,4 +419,8 @@ text-decoration:none;
 #footer a:visted {
 color:#DC9F85;
 text-decoration:underline;
+}
+
+p.centered {
+text-align:center;
 }

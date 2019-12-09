@@ -30,7 +30,8 @@ include_once('header.php');
 </div>
 <!--// end #callout //-->
 <div id='photoarea'>
-<img src="img/Group_Fall2018.jpg" height="418" width="770" vspace="0"/>
+<!-- <img src="img/Group_Fall2018.jpg" height="418" width="770" vspace="0"/> -->
+<img src="img/Fall2019_concert_1.jpeg" height="321" width="995" vspace="0"/>
 
 </div>
 <!--// end #textarea //-->

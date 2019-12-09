@@ -4,9 +4,12 @@ $nav_focus = "join";
 include_once('header.php');
 ?>
 <script src="js/functions.js"></script>
+<img src="img/Fall2019_dress_1.jpeg" height="320" width="428" align="right" hspace="20" vspace="10"/>
 <div id="calloutlong">
   <div id="calloutblock">
     <h2>The Next Session Starts Soon!
+
+    <!-- 4032 3024 -->
     <ul>
       <li>Rehearsals are held Friday evenings from 6:00pm - 7:30pm at Ferndale United Methodist Church.</li>
       <li>Address: 117 Ferndale Road, Glen Burnie, MD 21061</li>
@@ -46,9 +49,14 @@ include_once('header.php');
       </dl></li>
     </ol>
     </p>
+</div>
+      <img src="img/Fall2019_dress_2.jpeg" height="210" width="300" align="left" hspace="20" vspace="10"/>
+      <!-- 1203 1339 -->
+<div id="textarea">
 
   <p><h3>If you've played with us before:</h3></p>
   <p>
+
     There is no need to submit the <a href="docs/ACS_RegistrationForm.pdf">Registration Form</a> unless
     you've changed your contact information.  Please just do the following:
     <ul>
