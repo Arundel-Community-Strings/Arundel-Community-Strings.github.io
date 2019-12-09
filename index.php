@@ -22,7 +22,7 @@ include_once('header.php');
     <h1>
       <!-- <br /> -->
       Next Session: 
-      <p><span class="date">September 20, 2019 - November 8, 2019</span>
+      <p><span class="date">January 24, 2020 - March 20, 2020</span>
     </h1>
   </div>
 
