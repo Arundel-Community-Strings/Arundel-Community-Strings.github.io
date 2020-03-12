@@ -21,8 +21,9 @@ include_once('header.php');
     </h1> -->
     <h1>
       <!-- <br /> -->
-      Next Session: 
-      <p><span class="date">January 24, 2020 - March 20, 2020</span>
+      <!-- Next Session:  -->
+      <p><span class="date">Effective immediately, All ACS Rehearsals and Concert have been <u>cancelled</u></span>
+      <p>Stay healthy, and stay tuned for our fall dates!
     </h1>
   </div>
 

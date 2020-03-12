@@ -14,9 +14,10 @@ include_once('header.php');
       <li>Rehearsals are held Friday evenings from 6:00pm - 7:30pm at Ferndale United Methodist Church.</li>
       <li>Address: 117 Ferndale Road, Glen Burnie, MD 21061</li>
       <li>Rehearsals Begin: <span class="date">Friday, January 24, 2020</span></li>
-      <li>Concert Date: <span class="date">Friday, March 20, 2020</span></li>
+      <li>Concert Date: <span class="date" style="text-decoration:line-through">Friday, March 20, 2020</span></li>
     </ul>
     </h2>
+    This session's concert has been cancelled for the public health
   </div>
   <!--// end #calloutblock //-->
 </div>
