@@ -4,7 +4,7 @@ $nav_focus = "home";
 include_once('header.php');
 ?>
 <!-- <div id="calloutextralong"> -->
-<div id="callout">
+<div id="calloutlong">
 
   <div id="calloutblock">
     <!-- <img class="calloutfloat" src="img/composing.jpg"/> -->
@@ -22,8 +22,8 @@ include_once('header.php');
     <h1>
       <!-- <br /> -->
       <!-- Next Session:  -->
-      <p><span class="date">Effective immediately, All ACS Rehearsals and Concert have been <u>cancelled</u></span>
-      <p>Stay healthy, and stay tuned for our fall dates!
+      <p><span class="date">Due to the ongoing pandemic conditions all ACS activities are suspended until further notice.</span>
+      <p>Stay healthy, and stay tuned for our 2021 dates!
     </h1>
   </div>
 

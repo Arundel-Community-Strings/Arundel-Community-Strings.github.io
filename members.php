@@ -8,12 +8,16 @@ include_once('header.php');
 
 <div id="calloutlong">
   <div id="calloutblock">
-    <h2>Members
+    <h1>
+      <br />
+      <p class="centered">We miss you!</p>
+    </h1>
+    <!-- <h2>Members
       	<p>Winter/Spring 2020 music will be shared via DropBox. </p>
       	<p>If you have not recieved an email about music downloads by January 10, 2020 please contact us!</p>
         <br />
         <p class="centered">** Now is the time to start thinking about any ensemble pieces you'd like to perform **</p>
-    </h2>
+    </h2> -->
   </div>
   <!--// end #calloutblock //-->
 </div>

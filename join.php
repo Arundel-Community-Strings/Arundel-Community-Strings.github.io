@@ -7,17 +7,17 @@ include_once('header.php');
 <img src="img/Fall2019_dress_1.jpeg" height="320" width="428" align="right" hspace="20" vspace="10"/>
 <div id="calloutlong">
   <div id="calloutblock">
-    <h2>The Next Session Starts Soon!
+    <h2>We are hopeful to hold a session in early 2021! 
 
     <!-- 4032 3024 -->
     <ul>
       <li>Rehearsals are held Friday evenings from 6:00pm - 7:30pm at Ferndale United Methodist Church.</li>
       <li>Address: 117 Ferndale Road, Glen Burnie, MD 21061</li>
-      <li>Rehearsals Begin: <span class="date">Friday, January 24, 2020</span></li>
-      <li>Concert Date: <span class="date" style="text-decoration:line-through">Friday, March 20, 2020</span></li>
+      <li>Rehearsals Begin: <span class="date">TBD</span></li>
+      <li>Concert Date: <span class="date">TBD</span></li>
     </ul>
     </h2>
-    This session's concert has been cancelled for the public health
+
   </div>
   <!--// end #calloutblock //-->
 </div>
