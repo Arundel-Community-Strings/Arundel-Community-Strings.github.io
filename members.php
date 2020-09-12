@@ -18,8 +18,8 @@ include_once('header.php');
         <br />
         <p class="centered">** Now is the time to start thinking about any ensemble pieces you'd like to perform **</p>
     </h2> -->
-    <p>This is a test</p>
-    <a href="https://cgospe9.wixsite.com/chrisgosperart">outside link</a>
+    <!--<p>This is a test</p>
+    <a href="https://cgospe9.wixsite.com/chrisgosperart">outside link</a>-->
   </div>
   <!--// end #calloutblock //-->
 </div>
