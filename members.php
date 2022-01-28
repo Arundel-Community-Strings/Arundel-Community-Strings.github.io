@@ -6,7 +6,7 @@ include_once('header.php');
 <img src="img/Fall2019_cellos.jpeg" height="220" width="350" align="right" hspace="20" vspace="10"/> 
 <img src="img/Fall2019_violins.jpeg" height="220" width="350" align="left" hspace="20" vspace="10"/> 
 
-<div id="calloutlong">
+<div id="calloutextralong">
   <div id="calloutblock">
     <h1>
       <!-- <br /> -->
