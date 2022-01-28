@@ -22,7 +22,8 @@
 <!--// end #toplinks //-->
 <div id="slogan">
   <a href="index.php">
-    <img src="img/ACS_logo.jpg" alt="Arundel Community Strings" height="310" width="839" class="sloganfloat" />
+    <!-- <img src="img/ACS_logo.jpg" alt="Arundel Community Strings" height="310" width="839" class="sloganfloat" /> -->
+    <img src="img/ACS_wideLogo.png" alt="Arundel Community Strings" height="175" width="1000" class="sloganfloat" />
   </a>
 </div>
 <!--// end #slogan //-->
