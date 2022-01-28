@@ -219,6 +219,15 @@ font-size:1.5em;
 font-weight:lighter;
 }
 
+#calloutblock h3 {
+    margin:.7em 0 -.1em 0;
+    color:#323232;
+    font-family:Georgia, "Times New Roman", Times, serif;
+    font-size:1.8em;
+    font-weight:lighter;
+    text-align: center;
+}
+
 #calloutblock p, #calloutblock dl, #calloutblock ul, #calloutblock ol {
 margin:.3em 0 0 0;
 color:#ffffff;
@@ -256,6 +265,14 @@ text-decoration:underline;
     text-transform:uppercase;
  }
 
+ #calloutblock .highlight {
+    margin-bottom:-1em;
+    font-style: italic;
+    /* font-size:1.2em; */
+    color:#B9400B;
+    /* text-transform:uppercase; */
+ }
+ 
 div.centered {
     position:relative;
     margin:0 auto;

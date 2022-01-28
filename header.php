@@ -56,8 +56,8 @@ $navbarTxt = <<<NAV
       <li><a href="index.php" $home_class>Home</a></li>      
       <li><a href="about.php" $about_class>About</a></li>      
       <li><a href="join.php" $join_class>Join</a></li>
-      <li><a href="members.php" $members_class>Members</a></li>          
-      <li><a href="outreach.php" $outreach_class>Outreach</a></li>
+      <li><a href="members.php" $members_class>Session Notes</a></li>          
+      <!--<li><a href="outreach.php" $outreach_class>Outreach</a></li>--> 
       <li><a href="contact.php" $contact_class>Contact</a></li>      
     </ul>
   </div>

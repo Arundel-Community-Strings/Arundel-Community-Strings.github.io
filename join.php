@@ -7,21 +7,27 @@ include_once('header.php');
 <img src="img/Fall2019_dress_1.jpeg" height="320" width="428" align="right" hspace="20" vspace="10"/>
 <div id="calloutlong">
   <div id="calloutblock">
-    <h2>We are hopeful to hold a session in early 2021! 
+    <h2>We are happy to gather again in 2022!
+
 
     <!-- 4032 3024 -->
     <ul>
-      <li>Rehearsals are held Friday evenings from 6:00pm - 7:30pm at Ferndale United Methodist Church.</li>
-      <li>Address: 117 Ferndale Road, Glen Burnie, MD 21061</li>
-      <li>Rehearsals Begin: <span class="date">TBD</span></li>
-      <li>Concert Date: <span class="date">TBD</span></li>
+      <li>Rehearsals are held Friday evenings from 6:00pm - 7:30pm at <span class='highlight'>Harundale Presbyterian Church.</span></li>
+      <li>Address: 1020 Eastway, Glen Burnie, 21060</li>
+      <li>Rehearsals Begin: <span class="date">February 11, 2022</span></li>
+      <!-- <li>Concert Date: <span class="date">TBD</span></li> -->
     </ul>
-    </h2>
+    <br />Please note the new, temporary location
+  </h2>
 
   </div>
   <!--// end #calloutblock //-->
 </div>
 <div id="textarea">
+  <h2>**Due to the short turnaround between this session announcement and the start date, 
+    if you plan to pay by check please bring the payment to the first rehearsal instead 
+    of mailing it.**</h2>
+  <br />
   <h2>How To Register</h2>
   <p><h3>If it's your first time:</h3></p>
     <p>

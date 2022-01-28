@@ -9,9 +9,20 @@ include_once('header.php');
 <div id="calloutlong">
   <div id="calloutblock">
     <h1>
-      <br />
-      <p class="centered">We miss you!</p>
+      <!-- <br /> -->
+      <p class="centered">We have missed you!</p>
     </h1>
+
+    <h2>
+      For the Winter 2022 session:
+      <ul>
+        <li> Masks will be required</li>
+        <li> We will be in the lounge at Harundale Presbyterian Church. <span class='highlight'>(new location!)</span></li>
+        <li> Our aim is to provide an opportunity to play together again.
+          Due to the change in venue and the ongoing public health crisis, we will <span class='highlight'>not</span> be
+          holding the usual public finale concert.</li>
+      </ul>
+    </h2>
     <!-- <h2>Members
       	<p>Winter/Spring 2020 music will be shared via DropBox. </p>
       	<p>If you have not recieved an email about music downloads by January 10, 2020 please contact us!</p>
