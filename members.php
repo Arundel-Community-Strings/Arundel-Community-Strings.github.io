@@ -14,9 +14,9 @@ include_once('header.php');
     </h1>
 
     <h2>
-      For the Winter 2022 session:
+      For the Spring 2022 session:
       <ul>
-        <li> Masks will be required</li>
+        <li> Masks will not be required</li>
         <li> We will be in the lounge at Harundale Presbyterian Church. <span class='highlight'>(new location!)</span></li>
         <li> Our aim is to provide an opportunity to play together again.
           Due to the change in venue and the ongoing public health crisis, we will <span class='highlight'>not</span> be

@@ -11,8 +11,8 @@ include_once('header.php');
    <!-- width="358" height="104" alt="" /></a> -->
     <h1>
       <p>Starting Soon! - New Location!</p>
-      Winter 2022 Mini Session<br />
-      Fridays February 11 - March 4<br /></h1>
+      Spring 2022 Mini Session<br />
+      Fridays April 22 - May 13<br /></h1>
 
     <h3>
       <p>Harundale Presbyterian Church
