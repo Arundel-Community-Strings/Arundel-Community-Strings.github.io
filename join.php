@@ -12,12 +12,12 @@ include_once('header.php');
 
     <!-- 4032 3024 -->
     <ul>
-      <li>Rehearsals are held Friday evenings from 6:00pm - 7:30pm at <span class='highlight'>Harundale Presbyterian Church.</span></li>
-      <li>Address: 1020 Eastway, Glen Burnie, 21060</li>
-      <li>Rehearsals Begin: <span class="date">April 22, 2022</span></li>
+      <li>Rehearsals are held Friday evenings from 6:00pm - 7:30pm at <span class='highlight'>St. Bernadette's Catholic Church</span></li>
+      <li>Address: 801 Stevenson Rd., Severn, MD 21144</li>
+      <li>Rehearsals Begin: <span class="date">September 9, 2022</span></li>
       <!-- <li>Concert Date: <span class="date">TBD</span></li> -->
     </ul>
-    <br />Please note the new, temporary location
+    <br />Please note the new location
   </h2>
 
   </div>

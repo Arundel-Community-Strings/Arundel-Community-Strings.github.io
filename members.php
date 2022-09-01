@@ -14,14 +14,14 @@ include_once('header.php');
     </h1>
 
     <h2>
-      For the Spring 2022 session:
+      For the Fall 2022 session:
       <ul>
         <li> Masks will not be required</li>
-        <li> We will be in the lounge at Harundale Presbyterian Church. <span class='highlight'>(new location!)</span></li>
-        <li> Our aim is to provide an opportunity to play together again.
-          Due to the change in venue and the ongoing public health crisis, we will <span class='highlight'>not</span> be
-          holding the usual public finale concert.</li>
+        <li> We will be in the church hall at St. Bernadette's. <span class='highlight'>(new location!)</span></li>
+
       </ul>
+      <br />
+      Thank you for your flexibility as we work on finding a new permanent place to land!
     </h2>
     <!-- <h2>Members
       	<p>Winter/Spring 2020 music will be shared via DropBox. </p>

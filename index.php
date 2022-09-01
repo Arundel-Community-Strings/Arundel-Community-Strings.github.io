@@ -11,12 +11,12 @@ include_once('header.php');
    <!-- width="358" height="104" alt="" /></a> -->
     <h1>
       <p>Starting Soon! - New Location!</p>
-      Spring 2022 Mini Session<br />
-      Fridays April 22 - May 13<br /></h1>
+      Fall 2022 Session<br />
+      <span class='highlight'>Fridays</span> Sept 9 - Oct 28<br /></h1>
 
     <h3>
-      <p>Harundale Presbyterian Church
-      <p>1020 Eastway, Glen Burnie, 21060
+      <p>St. Bernadette's Catholic Church
+      <p>801 Stevenson Rd., Severn, MD 21144
     </h3>
       <!-- Fall Concert:<br />
       Friday, November 9, 2018<br />
