@@ -9,28 +9,26 @@ include_once('header.php');
 <div id="calloutextralong">
   <div id="calloutblock">
     <h1>
-      <!-- <br /> -->
-      <p class="centered">We have missed you!</p>
+      <p class="centered">Welcome to 2023!</p><br />
     </h1>
 
-    <h2>
-      For the Fall 2022 session:
+    <h2>Location:
+    <ul>
+      <li> We will be in the lounge at Harundale Presbyterian <span class='highlight'>(new location!)</span></li>
+    </ul>
+  
+    <br />New this Session -- <span class='highlight'>exciting changes to enhance the small ensemble experience:</span>
       <ul>
-        <li> Masks will not be required</li>
-        <li> We will be in the church hall at St. Bernadette's. <span class='highlight'>(new location!)</span></li>
-
+        <li> At registration we will collect information about interest in playing a solo, or in a duet, or small ensemble at our concert.</li>
+        <li>Prior to the first rehearsal, we will coordinate groupings and music selections.</li>
+        <li>Our venue will be open for our use between <span class='highlight'>5pm and 9pm</span> on rehearsal days, 
+        with multiple spaces available for small group practice either before or after the general rehearsal.  </li>
+        <li>Scheduling for ensemble rehearsal time and coaching from Chris will be determined once groups have been established.</li>
       </ul>
       <br />
-      Thank you for your flexibility as we work on finding a new permanent place to land!
+      <h3>Please register by February 1st to guanantee inclusion in the small ensembles program.</h3>
+
     </h2>
-    <!-- <h2>Members
-      	<p>Winter/Spring 2020 music will be shared via DropBox. </p>
-      	<p>If you have not recieved an email about music downloads by January 10, 2020 please contact us!</p>
-        <br />
-        <p class="centered">** Now is the time to start thinking about any ensemble pieces you'd like to perform **</p>
-    </h2> -->
-    <!--<p>This is a test</p>
-    <a href="https://cgospe9.wixsite.com/chrisgosperart">outside link</a>-->
   </div>
   <!--// end #calloutblock //-->
 </div>
