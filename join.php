@@ -26,11 +26,11 @@ include_once('header.php');
   <br /><h2>How To Register</h2><br />
   <ol>
       <li><dl>
-        <dt>Complete the online <a href="https://forms.gle/4Mmefg993xmkNCjR7">Registration Form</a></dt>
+        <dt>Complete the online <a href="https://forms.gle/ryefKJLYtbp7Rt7V8">Registration Form</a></dt>
       <li><dl>
         <dt>Submit your payment</dt>
         <dd>A registration fee of $75 is due no later than 1 week before the first rehearsal of each session.</dd><br />
-        <dd>We accept both personal checks and PayPal.  Please see the Registration Form for details.</dd>
+        <dd>We accept both personal checks, PayPal, and Venmo.  Please see the Registration Form for details.</dd>
         <dd>**PayPal should be sent as a <span class="highlight">'Friends and Family'</span> payment**</dd>
       </dl></li>
     </ol>

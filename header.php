@@ -34,7 +34,6 @@ $home_class = "";
 $about_class = "";
 $join_class = "";
 $members_class = "";
-$outreach_class = "";
 $contact_class = "";
 if ($nav_focus == "about"): //$nav_focus passed in
   $about_class = "class=\"now\"";
@@ -42,8 +41,6 @@ elseif ($nav_focus == "join"):
   $join_class = "class=\"now\"";
 elseif ($nav_focus == "members"):
   $members_class = "class=\"now\"";
-elseif ($nav_focus == "outreach"):
-  $outreach_class = "class=\"now\"";
 elseif ($nav_focus == "home"):
   $home_class = "class=\"now\"";
 elseif ($nav_focus == "contact"):
@@ -58,7 +55,6 @@ $navbarTxt = <<<NAV
       <li><a href="about.php" $about_class>About</a></li>      
       <li><a href="join.php" $join_class>Join</a></li>
       <li><a href="members.php" $members_class>Session Notes</a></li>          
-      <!--<li><a href="outreach.php" $outreach_class>Outreach</a></li>--> 
       <li><a href="contact.php" $contact_class>Contact</a></li>      
     </ul>
   </div>
