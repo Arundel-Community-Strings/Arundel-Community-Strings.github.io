@@ -9,15 +9,17 @@ include_once('header.php');
 <div id="calloutextralong">
   <div id="calloutblock">
     <h1>
-      <p class="centered">Welcome to 2023!</p><br />
+      <p class="centered">Welcome to Fall 2023!</p><br />
     </h1>
 
     <h2>Location:
     <ul>
-      <li> We will be in the lounge at Harundale Presbyterian <span class='highlight'>(new location!)</span></li>
+      <li> We will rehearse in the lounge at Harundale Presbyterian 
+        <!-- <span class='highlight'>(new location!)</span></li> -->
     </ul>
   
-    <br />New this Session -- <span class='highlight'>exciting changes to enhance the small ensemble experience:</span>
+    <br />The Small Ensemble Experience:
+    <!-- -- <span class='highlight'>exciting changes to enhance the small ensemble experience:</span> -->
       <ul>
         <li> At registration we will collect information about interest in playing a solo, or in a duet, or small ensemble at our concert.</li>
         <li>Prior to the first rehearsal, we will coordinate groupings and music selections.</li>
@@ -26,7 +28,7 @@ include_once('header.php');
         <li>Scheduling for ensemble rehearsal time and coaching from Chris will be determined once groups have been established.</li>
       </ul>
       <br />
-      <h3>Please register by February 1st to guanantee inclusion in the small ensembles program.</h3>
+      <h3>Please register by September 6th to be considered for matching in the small ensembles program.</h3>
 
     </h2>
   </div>

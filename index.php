@@ -8,15 +8,16 @@ include_once('header.php');
 
   <div id="calloutblock">
     <h1>
-      <!-- <p>Starting Soon!</p> -->
-      2023 Session 1<br />
-      <!-- <span class='highlight'>Fridays</span><br /> -->
-      <span class='highlight'>Feb 10 - Mar 31</span></h1>
+      2023 Session 2: <span class='highlight'>Sep 15 - Nov 3</span><br />
+      2024 Session 1: <span class='highlight'>Feb 2 - Mar 22</span>
+    </h1>
 
     <h3>
       <p>Harundale Presbyterian Church
       <p>1020 Eastway, Glen Burnie, MD 21060
     </h3>
+
+    <h3>Registration Now Open!</h3>
       <!-- Fall Concert:<br />
       Friday, November 9, 2018<br />
       7:30 p.m.<br />

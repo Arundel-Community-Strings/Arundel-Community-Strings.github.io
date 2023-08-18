@@ -17,11 +17,11 @@ include_once('header.php');
             <h2>
             <dl>
               <dt>Email: <script>gen_mail_to_link('aacsomusic','gmail.com')</script></dt>
-              <dt>Mailing Address:</dt>
+              <!-- <dt>Mailing Address:</dt>
               <dd>Arundel Community Strings</dd>
               <dd>c/o Jennifer Danko</dd>
               <dd>303 Nicole Lane</dd>
-              <dd>Glen Burnie, MD 21061</dd>
+              <dd>Glen Burnie, MD 21061</dd> -->
             </dl>
             </h2>
           </td>
