@@ -9,7 +9,7 @@ include_once('header.php');
 <div id="calloutextralong">
   <div id="calloutblock">
     <h1>
-      <p class="centered">Welcome to Fall 2023!</p><br />
+      <p class="centered">Welcome to Winter/Spring 2024!</p><br />
     </h1>
 
     <h2>Location:
@@ -28,7 +28,7 @@ include_once('header.php');
         <li>Scheduling for ensemble rehearsal time and coaching from Chris will be determined once groups have been established.</li>
       </ul>
       <br />
-      <h3>Please register by September 6th to be considered for matching in the small ensembles program.</h3>
+      <!-- <h3>Please register by September 6th to be considered for matching in the small ensembles program.</h3> -->
 
     </h2>
   </div>

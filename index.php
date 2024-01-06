@@ -8,7 +8,6 @@ include_once('header.php');
 
   <div id="calloutblock">
     <h1>
-      2023 Session 2: <span class='highlight'>Sep 15 - Nov 3</span><br />
       2024 Session 1: <span class='highlight'>Feb 2 - Mar 22</span>
     </h1>
 
