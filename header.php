@@ -11,6 +11,7 @@
 <meta property="og:title" content="A Beginner Strings Orchestra for Adults" />
 <meta property="og:description" content="If you play violin, viola, cello, or bass please consider joining us!" />
 <link rel="stylesheet" href="css/style.css" type="text/css" media="screen,print" />
+<link rel="icon" href="./img/favicon.ico" />
 </head>
 <body>
 <div id="toplinks">
