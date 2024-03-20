@@ -183,6 +183,15 @@ background-image:url(../img/callout-bg.jpg);
 background-repeat:repeat-x;
 }
 
+#calloutlonger {
+    margin:0;
+    padding:0;
+    height:250px;
+    background-color:#A5C274;
+    background-image:url(../img/callout-bg.jpg);
+    background-repeat:repeat-x;
+    }
+
 #calloutextralong {
     margin:0;
     padding:0;
