@@ -165,6 +165,16 @@ text-decoration:none;
 
 
 /* Call Out Area */
+#church{
+    margin:0;
+    padding: 1em 0 0 0;
+    font-size: 1.5em;
+
+    #offering {
+        font-size: .6em;
+    }
+}
+
 #callout {
 margin:0;
 padding:0;
@@ -209,6 +219,10 @@ background-repeat:repeat-x;
     width:770px;
     font-size:.9em;
     text-align:left;
+}
+
+#calloutblock.centered {
+    text-align: center;
 }
 
 #calloutblock h1 {
