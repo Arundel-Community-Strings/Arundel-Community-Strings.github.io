@@ -10,6 +10,7 @@ cp -r -p ./assets ../grubby-galaxy/public/.
 
 # Build Astro pages
 cd ../grubby-galaxy
+rm -rf dist/*
 npm run build
 cd ..
 

@@ -132,3 +132,13 @@ i.e.
         font-size: 5rem;
   }
 }
+
+
+.filler_block {
+  min-height: 300px;
+  background-color: color($theme-color-primary-darker);
+  color: color("white");
+  text-align: center;
+  padding: 10%;
+  
+}
