@@ -16,3 +16,4 @@ cd ..
 # Clear old and copy Astro dist to docs/
 rm -rf docs/*
 cp -r -p ./grubby-galaxy/dist/* ./docs/
+cp -r -p ./CNAME ./docs/.
