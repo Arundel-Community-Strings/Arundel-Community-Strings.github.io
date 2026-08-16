@@ -1,0 +1,17 @@
+{
+  "name": "design",
+  "version": "1.0.0",
+  "description": "Styles for ACS Web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@uswds/uswds": "3.13.0"
+  },
+  "devDependencies": {
+    "@uswds/compile": "^1.3.2"
+  }
+}

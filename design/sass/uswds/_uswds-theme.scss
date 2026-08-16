@@ -1,0 +1,19 @@
+/*
+----------------------------------------
+USWDS with settings overrides
+----------------------------------------
+Uncomment the following lines and add a list of changed settings
+in the form $setting: value,
+----------------------------------------
+*/
+
+
+ @use "uswds-core" with (
+   $theme-grid-container-max-width: "widescreen",
+   $theme-header-max-width: "widescreen",
+   $theme-footer-max-width: "widescreen",
+   $theme-header-logo-text-width: 75%,
+   $theme-hero-image: "../acs/img/hero.jpg",    // Paths here should be relative to the final CSS file
+
+ );
+
