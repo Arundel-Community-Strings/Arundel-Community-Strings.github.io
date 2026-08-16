@@ -1,0 +1,151 @@
+/*
+* * * * * ==============================
+* * * * * ==============================
+* * * * * ==============================
+* * * * * ==============================
+========================================
+========================================
+========================================
+----------------------------------------
+USWDS THEME CUSTOM STYLES
+----------------------------------------
+!! Copy this file to your project's
+   sass root. Don't edit the version
+   in node_modules.
+----------------------------------------
+Custom project SASS goes here.
+
+i.e.
+@include u-padding-right('05');
+----------------------------------------
+*/
+
+@use "uswds-core" as *;
+
+/* Self - hosted fonts */
+
+/* estonia-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Estonia';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../acs/fonts/estonia-v13-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+// /* jim-nightshade-regular - latin */
+// @font-face {
+//   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+//   font-family: 'Jim Nightshade';
+//   font-style: normal;
+//   font-weight: 400;
+//   src: url('../acs/fonts/jim-nightshade-v21-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+// }
+
+// /* quintessential-regular - latin */
+// @font-face {
+//   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+//   font-family: 'Quintessential';
+//   font-style: normal;
+//   font-weight: 400;
+//   src: url('../acs/fonts/quintessential-v24-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+// }
+
+// /* bilbo-swash-caps-regular - latin */
+// @font-face {
+//   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+//   font-family: 'Bilbo Swash Caps';
+//   font-style: normal;
+//   font-weight: 400;
+//   src: url('../acs/fonts/bilbo-swash-caps-v23-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+// }
+
+// /* bilbo-regular - latin */
+// @font-face {
+//   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+//   font-family: 'Bilbo';
+//   font-style: normal;
+//   font-weight: 400;
+//   src: url('../acs/fonts/bilbo-v21-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+// }
+
+
+/* Header */
+.usa-header--basic {
+  .usa-nav {
+    @include at-media("desktop") {
+      width: auto;
+    }
+
+    .usa-nav-link {
+      @include at-media("desktop") {
+        white-space: nowrap;
+      }
+    }
+  }
+}
+
+.usa-logo {
+  display: flex;
+  align-items: center;
+
+  a {
+    text-decoration: underline;
+  }
+
+  img {
+    width: 3rem;
+    height: auto;
+    margin-right: 0.75rem;
+  }
+
+  .usa-logo__text {
+    margin: 0;
+  }
+
+  @include at-media("tablet") {
+    img {
+      width: 4rem;
+    }
+   }
+
+  @include at-media("desktop") {
+    img {
+      width: 10rem;
+    }
+  }
+}
+
+.usa-logo__text {
+  font-family: 'Estonia', Georgia, serif;
+  font-weight: unset;
+  line-height: .8;
+  
+  @include at-media("mobile") {
+        font-size: 2rem;
+  }
+  
+  @include at-media("tablet-lg") {
+        font-size: 3rem;
+  }  
+  @include at-media("desktop") {
+        font-size: 5rem;
+  }
+}
+
+
+.filler_block {
+  min-height: 300px;
+  background-color: color($theme-color-primary-darker);
+  color: color("white");
+  text-align: center;
+  padding: 10%;
+  
+}
+
+.copyright {
+  padding: 5px;
+  text-align: left;
+  font-size: small;
+  color: color($theme-color-base);
+}
