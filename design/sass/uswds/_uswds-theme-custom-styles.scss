@@ -163,6 +163,15 @@ i.e.
     text-underline-offset: 3px;
     line-height: 1.5;
   }
+
+  .usa-card {
+    p {
+      color: color($theme-color-primary-darker);
+    }
+    img {
+      max-height: max-content;
+    }
+  }
 }
 
 
