@@ -177,6 +177,14 @@ i.e.
     line-height: 1.5;
   }
 
+  .emphasis-dark {
+    color: color($theme-color-primary-darker);
+    text-decoration-line: underline overline;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 3px;
+    line-height: 1.5;
+  }
+
   .usa-card {
     p {
       color: color($theme-color-primary-darker);
@@ -185,6 +193,13 @@ i.e.
       max-height: max-content;
     }
   }
+
+  .usa-summary-box {
+      p, ul {
+        color: color($theme-color-info-darker);
+      }
+    }
+
 }
 
 
