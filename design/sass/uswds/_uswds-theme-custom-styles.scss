@@ -152,10 +152,23 @@ i.e.
     color: color($theme-color-accent-cool);
   }
 
-  p {
+  h2 {
+    color: color($theme-color-accent-cool-light);
+  }
+
+  h4.usa-process-list__heading {
     color: color("white");
   }
 
+  p, ul {
+    color: color($theme-color-base-light);
+  }
+
+  a {
+    color: color($theme-color-accent-warm);
+  }
+
+  
   .emphasis {
     color: color($theme-color-accent-cool-light);
     text-decoration-line: underline overline;
