@@ -143,6 +143,29 @@ i.e.
   
 }
 
+.content-page-container {
+  padding: 10px;
+  min-height: 300px;
+  background-color: color($theme-color-primary-darker);
+
+  h1 {
+    color: color($theme-color-accent-cool);
+  }
+
+  p {
+    color: color("white");
+  }
+
+  .emphasis {
+    color: color($theme-color-accent-cool-light);
+    text-decoration-line: underline overline;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 3px;
+    line-height: 1.5;
+  }
+}
+
+
 .copyright {
   padding: 5px;
   text-align: left;
